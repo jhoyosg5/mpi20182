@@ -1,6 +1,6 @@
 # Universidad EAFIT
 # Curso ST0263 Tópicos Especiales en Telemática, 2018-2
-# Profesor: Edwin Montoya M. – emontoya@eafit.edu.co
+# Alumno: Jorge Hoyos. – jhoyosg5@eafit.edu.co
 # Laboratorio de MPI
 
 # entrar al cluster:
