@@ -1,6 +1,6 @@
-CXX=mpicc
-CXXFLAGS= -O2 -w
-LDFLAGS=-O2 -w
+CXX=icpc
+CXXFLAGS=-c -qopenmp
+LDFLAGS=-qopenmp
 
 OBJECTS=main.o library.o worker.o
 
